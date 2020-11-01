@@ -2,6 +2,6 @@
 
 ## Screenshot
 
-![My image](dexter.jpg?raw=true)
+![img1](dexter.jpg?raw=true)
 
-![alt text](dexter.jpg?raw=true)
+![img2](dexter2.jpg?raw=true)
