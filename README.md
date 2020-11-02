@@ -8,9 +8,9 @@ implementation 'com.karumi:dexter:6.2.1'
 ## Dependency
 Include the library in your build.gradle
 
-dependencies { <br>
-        implementation 'com.karumi:dexter:6.2.1' <br>
-}
+<pre>dependencies {
+        implementation 'com.karumi:dexter:6.2.1'
+}</pre>
 
 ## Screenshot
 
