@@ -3,7 +3,14 @@
 documentation:
 https://github.com/Karumi/Dexter
 
- implementation 'com.karumi:dexter:6.2.1'
+implementation 'com.karumi:dexter:6.2.1'
+
+## Dependency
+Include the library in your build.gradle
+
+dependencies{
+    implementation 'com.karumi:dexter:6.2.1'
+}
 
 ## Screenshot
 
