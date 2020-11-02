@@ -6,7 +6,7 @@ https://github.com/Karumi/Dexter
 implementation 'com.karumi:dexter:6.2.1'
 
 ## Dependency
-Include the library in your build.gradle
+Include the library in your <pre>build.gradle</pre>
 
 <pre>dependencies {
         implementation 'com.karumi:dexter:6.2.1'
