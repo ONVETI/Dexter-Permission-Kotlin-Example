@@ -1,5 +1,10 @@
 # Dexter-Permission-Kotlin-Example
 
+dokumentation:
+https://github.com/Karumi/Dexter
+
+ implementation 'com.karumi:dexter:6.2.1'
+
 ## Screenshot
 
 ![img1](dexter.jpg?raw=true)
