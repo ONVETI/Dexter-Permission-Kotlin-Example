@@ -1,6 +1,6 @@
 # Dexter-Permission-Kotlin-Example
 
-dokumentation:
+documentation:
 https://github.com/Karumi/Dexter
 
  implementation 'com.karumi:dexter:6.2.1'
